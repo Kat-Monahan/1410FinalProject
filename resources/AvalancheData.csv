@@ -1,0 +1,413 @@
+Date,Region,Place,Trigger,Depth,Width,Vertical,Elevation,Fatalities 
+12/9/2024,Salt Lake,Scotts Bowl,Skier,"12""",30',400',"9,700'",0
+12/9/2024,Salt Lake,Mill B South,Natural,"6""",15',150',"8,700'",0
+12/12/2024,Salt Lake,Room of Doom,Natural,unknown,unknown,unknown,"10,000'",0
+12/12/2024,Salt Lake,Mongo no,Natural,"4""",25',125',"9,200'",0
+12/13/2024,Salt Lake,Sun Dial,Hiker,"6""",10',30',"9,500'",0
+12/15/2024,Salt Lake,Alexander Basin,Skier,"12""",30',600',"9,400'",0
+12/15/2024,Salt Lake,Cardiff Peak,Snowboarder,"16""",40',400',"9,800'",0
+12/15/2024,Salt Lake,Silver Fork,Snowboarder,"12""",50',200',"9,800'",0
+12/15/2024,Salt Lake,Grizzly Gulch,Skier,"16""",100',unknown,"9,400'",0
+12/15/2024,Salt Lake,West Monitor,Skier,"15""",80',200',"9,500'",0
+12/15/2024,Salt Lake,Banana Days,Natural,2',70',300',"9,700'",0
+12/15/2024,Salt Lake,Patsy Marly,Skier,"18""",20',unknown,"9,600'",0
+12/16/2024,Salt Lake,Wolverine Cirque,Skier,2',100',500',"10,300'",0
+12/17/2024,Salt Lake,Main Days,Skier,2',800',"1,000'","10,200'",0
+12/17/2024,Salt Lake,Scotts Peak,Skier,2',70',700',"9,800'",0
+12/21/2024,Salt Lake,South Monitor Bowl,Skier,2',40',500',"9,900'",0
+12/24/2024,Salt Lake,Catherine's Pass,Skier,"12""",60',400',"10,400'",0
+12/26/2024,Salt Lake,Butler Fork,Skier,"16""",100',150',"9,300'",0
+12/27/2024,Salt Lake,South Monitor Bowl,Natural,"18""",600',600',"9,600'",0
+12/28/2024,Salt Lake,Willows,Skier,"18""",200',200',"9,300'",0
+12/28/2024,Salt Lake,Patsy Trees,Skier,2',250',400',"9,600'",0
+12/28/2024,Salt Lake,Kessler Peak,Unknown,"12""",25',unknown,"8,600'",0
+12/28/2024,Salt Lake,Willows,Natural,4',250',350',"9,400'",0
+12/28/2024,Salt Lake,Twin Lakes Pass,Skier,3',"1,500'",unknown,"10,000'",0
+12/28/2024,Salt Lake,Park City Ridgeline,Snowboarder,"18""",50',50',"7,200'",0
+12/28/2024,Salt Lake,Willows,Natural,"18""",100',100',"9,600'",0
+12/28/2024,Salt Lake,Cardiff Bowl,Skier,"12""",50',60',"9,900'",0
+12/28/2024,Salt Lake,Lake Desolation,Natural,3',300',600',"9,600'",0
+12/28/2024,Salt Lake,Georges Bowl,Skier,"12""",150',200',"10,000'",0
+12/28/2024,Salt Lake,Lanes Leap,Skier,"20""",50',unknown,"9,600'",0
+12/28/2024,Salt Lake,Sheep Shit Ridge,Skier,"12""",100',300',"9,400'",0
+12/28/2024,Salt Lake,White Pine Canyon,Natural,"10""",10',20',"7,300'",0
+12/28/2024,Salt Lake,Short Swing,Natural,2',25',,"9,100'",0
+12/28/2024,Salt Lake,Snake Creek,Natural,unknown,unknown,"1,250'","10,000'",0
+12/28/2024,Salt Lake,West Desolation Ridge,Natural,5',"1,000'",unknown,"9,600'",0
+12/28/2024,Salt Lake,Wolverine Cirque,Natural,2',200',unknown,"10,200'",0
+12/28/2024,Salt Lake,Daly Canyon,Natural,"10""",150',50',"7,600'",0
+12/28/2024,Salt Lake,The Ice Box,Natural,"15""",300',400',"9,300'",0
+12/28/2024,Salt Lake,Sunset Peak,Natural,unknown,600',400',"10,400'",0
+12/28/2024,Salt Lake,Main Porter,Unknown,"18""",70',300',"9,400'",1
+12/29/2024,Salt Lake,Scott Hill,Natural,"18""",300',unknown,"9,600'",0
+12/29/2024,Salt Lake,White Pine,Unknown,4',200',200',"9,700'",0
+12/29/2024,Salt Lake,Radar Love Bowl,Natural,unknown,unknown,unknown,"9,700'",0
+12/29/2024,Salt Lake,Moonlight,Natural,unknown,"2,500'","1,000'","9,200'",0
+12/29/2024,Salt Lake,West Monitor,Unknown,unknown,600',600',"9,600'",0
+12/29/2024,Salt Lake,High Pockets,Natural,"18""",,"1,000'","9,800'",0
+12/29/2024,Salt Lake,Guardsman Pass area,Snowmobiler,"18""",20',40',"9,700'",0
+12/29/2024,Salt Lake,East Bowl,Skier,3',"1,000'",500',"10,100'",0
+12/29/2024,Salt Lake,Bonanza Flats,Snowmobiler,3',700',600',"9,600'",0
+12/29/2024,Salt Lake,West Monitor,Skier,"18""",60',unknown,"9,400'",0
+12/29/2024,Salt Lake,No Name Bowl,Skier,2.5',"1,500'",unknown,"9,600'",0
+12/29/2024,Salt Lake,Meadows,Skier,2.5',400',unknown,"9,500'",0
+12/29/2024,Salt Lake,West Bowl,Unknown,"12""",125',unknown,"10,100'",0
+12/29/2024,Salt Lake,South Monitor Bowl,Natural,unknown,unknown,unknown,"9,600'",0
+12/29/2024,Salt Lake,Squaretop,Natural,4',800',unknown,"9,700'",0
+12/29/2024,Salt Lake,Red Top,Natural,unknown,unknown,unknown,"10,600'",0
+12/29/2024,Salt Lake,First Cornice Bowl,Snowmobiler,4',700',unknown,"9,800'",0
+12/29/2024,Salt Lake,Hypodermic Needle,Natural,3',300',unknown,"10,200'",0
+12/30/2024,Salt Lake,Brighton Perimeter,Natural,3',300',400',"10,200'",0
+12/30/2024,Salt Lake,Mill D North,Skier,2',300',unknown,"9,000'",0
+12/30/2024,Salt Lake,White Pine,Skier,2.5',80',200',"9,700'",0
+12/30/2024,Salt Lake,Jaws,Snowboarder,2.5',100',unknown,"10,100'",0
+12/30/2024,Salt Lake,Conehead,Skier,"18""",60',unknown,"9,900'",0
+12/30/2024,Salt Lake,Georges Bowl,Skier,5',60',unknown,"9,800'",0
+12/31/2024,Salt Lake,Butler Basin,Skier,3',400',unknown,"9,200'",0
+12/31/2024,Salt Lake,Little Water,Skier,3',150',unknown,"9,500'",0
+12/31/2024,Salt Lake,Summit Park,Skier,"18""",70',unknown,"8,400'",0
+12/31/2024,Salt Lake,Sheep Shit Ridge,Skier,3',"1,500'",unknown,"9,300'",0
+12/31/2024,Salt Lake,Murdock Pk,Skier,2',125',unknown,"9,000'",0
+12/31/2024,Salt Lake,Meadows,Skier,2.5',100',unknown,"9,300'",0
+12/31/2024,Salt Lake,Davenport Hill,Unknown,2',300',400',"9,800'",1
+12/31/2024,Salt Lake,Brighton Hill,Unknown,3',200',unknown,"9,500'",0
+12/31/2024,Salt Lake,No No Name,Snowmobiler,2.5',300',unknown,"9,400'",0
+12/31/2024,Salt Lake,Lake Desolation,Natural,2',150',unknown,"9,800'",0
+12/31/2024,Salt Lake,Days Fork,Natural,3.5',100',unknown,"9,000'",0
+12/31/2024,Salt Lake,Lambs Canyon,Snowboarder,"18""",100',100',"9,100'",0
+12/31/2024,Salt Lake,Lambs Canyon,Natural,"18""",90',70',"9,100'",0
+12/31/2024,Salt Lake,Murdock Peak,Natural,"18""",unknown,80',"8,900'",0
+12/31/2024,Salt Lake,Bear Trap,Natural,"12""",100',,"9,200'",0
+1/2/2025,Salt Lake,Wilson Chutes,Natural,3',200',600',"9,800'",0
+1/2/2025,Salt Lake,Dutch Draw,Natural,2',50',unknown,"9,800'",0
+1/2/2025,Salt Lake,Emma Ridges,Snowboarder,"8""",30',unknown,"9,500'",0
+1/2/2025,Salt Lake,Kessler Slabs,Skier,2.5',300',"1,000'","9,600'",0
+1/2/2025,Salt Lake,Superior,Natural,4',400',unknown,"10,400'",0
+1/3/2025,Salt Lake,Two Dogs,Natural,3.5',80',600',"10,400'",0
+1/3/2025,Salt Lake,Upper Days,Natural,3.5',175',600',"10,400'",0
+1/3/2025,Salt Lake,Cardiff Bowl,Skier,unknown,100',250',"10,000'",0
+1/4/2025,Salt Lake,Summit Park,Snowboarder,"22""",80',,"8,300'",0
+1/4/2025,Salt Lake,Yellow Jacket,Skier,2',150',600',"8,800'",0
+1/4/2025,Salt Lake,Thomas Fork,Skier,"18""",50',unknown,"9,100'",0
+1/4/2025,Salt Lake,Park City Ridgeline,Skier,2',25',50',"9,200'",0
+1/4/2025,Salt Lake,Cardiac Ridge,Natural,unknown,200',600',"10,200'",0
+1/4/2025,Salt Lake,Raymond Peak,Natural,2',300',600',"9,500'",0
+1/4/2025,Salt Lake,Tuscarora,Skier,"12""",20',50',"10,200'",0
+1/4/2025,Salt Lake,Alexander Basin,Natural,2.5',"1,000'",unknown,"9,800'",0
+1/4/2025,Salt Lake,Days Draw,Natural,3',"1,000'",unknown,"9,300'",0
+1/4/2025,Salt Lake,Yellow Jacket,Natural,2',175',"1,000'","9,500'",0
+1/4/2025,Salt Lake,Mineral Fork,Natural,unknown,"2,500'",unknown,"10,200'",0
+1/4/2025,Salt Lake,Alexander Basin,Natural,4',unknown,"1,000'","9,500'",0
+1/5/2025,Salt Lake,Caribou Basin,Unknown,2',400',unknown,"9,800'",0
+1/5/2025,Salt Lake,Mill B South,Natural,unknown,500',unknown,"9,900'",0
+1/5/2025,Salt Lake,Birthday Chutes,Natural,3',100',unknown,"10,500'",0
+1/6/2025,Salt Lake,Red Pine,Natural,2.5',60',200',"9,800'",0
+1/7/2025,Salt Lake,Little Superior,Snowboarder,"2""",10',150',"9,700'",0
+1/7/2025,Salt Lake,Cardiac Ridge,Natural,unknown,"1,000'",unknown,"10,600'",0
+1/7/2025,Salt Lake,Butler Fork,Natural,"15""",70',300',"9,000'",0
+1/7/2025,Salt Lake,Cardiff Bowl,Skier,unknown,unknown,unknown,"9,600'",0
+1/9/2025,Salt Lake,Red Pine,Natural,2',40',300',"8,500'",0
+1/9/2025,Salt Lake,Red Pine,Natural,"4""",20',90',"8,400'",0
+1/9/2025,Salt Lake,Mongo no,Natural,3',500',unknown,"9,900'",0
+1/10/2025,Salt Lake,Sidewinder,Natural,3.5',300',400',"9,800'",0
+1/10/2025,Salt Lake,East Mineral,Natural,3',70',400',"8,900'",0
+1/11/2025,Salt Lake,Cardiac Bowl,Natural,unknown,80',300',"10,700'",0
+1/12/2025,Salt Lake,Butler Basin,Skier,3',200',400',"9,200'",0
+1/12/2025,Salt Lake,Michigan City,Skier,"14""",15',unknown,"9,500'",0
+1/12/2025,Salt Lake,Bonkers,Natural,5',80',900',"10,000'",0
+1/13/2025,Salt Lake,Diving Board,Natural,8',60',800',"9,200'",0
+1/14/2025,Salt Lake,Superior,Natural,"6""",unknown,100',"9,100'",0
+1/14/2025,Salt Lake,High Ivory,Skier,3',200',unknown,"10,000'",0
+1/15/2025,Salt Lake,Hallway Couloir,Snowboarder,2.5',70',unknown,"10,400'",0
+1/15/2025,Salt Lake,East Mineral,Natural,"8""",60',unknown,"8,900'",0
+1/16/2025,Salt Lake,Pioneer Ridge,Skier,2',30',350',"10,100'",0
+1/17/2025,Salt Lake,Broads Fork,Natural,8',90',800',"9,700'",0
+1/17/2025,Salt Lake,East Mineral,Skier,"12""",100',unknown,"9,000'",0
+1/18/2025,Salt Lake,West Scotties,Skier,2',40',unknown,"8,700'",0
+1/21/2025,Salt Lake,West Monitor,Skier,2',100',unknown,"9,900'",0
+1/23/2025,Salt Lake,South Monitor Bowl,Skier,"20""",300',500',"9,700'",0
+1/25/2025,Salt Lake,Tuscarora,Skier,"3""",50',unknown,"10,600'",0
+1/25/2025,Salt Lake,Red Pine,Natural,"3""",50',300',"10,000'",0
+1/25/2025,Salt Lake,White Baldy,Natural,unknown,unknown,unknown,"10,900'",0
+1/26/2025,Salt Lake,LSB North,Skier,2',60',unknown,"10,100'",0
+1/26/2025,Salt Lake,Birthday Chutes,Natural,"12""",125',unknown,"10,600'",0
+1/26/2025,Salt Lake,Mongo no,Natural,unknown,unknown,unknown,"9,900'",0
+1/26/2025,Salt Lake,Little Water,Skier,"12""",100',unknown,"9,400'",0
+1/26/2025,Salt Lake,Patsy Trees,Skier,"4""",15',unknown,"10,400'",0
+1/26/2025,Salt Lake,Thousand Turns Gully,Snowboarder,"6""",30',unknown,"9,800'",0
+1/31/2025,Salt Lake,Two Dogs,Skier,"16""",20',100',"10,000'",0
+2/1/2025,Salt Lake,East Bowl,Skier,"12""",150',unknown,"10,100'",0
+2/1/2025,Salt Lake,Maybird Gulch,Skier,"10""",100',unknown,"9,800'",0
+2/1/2025,Salt Lake,Mineral Fork,Snowboarder,2',125',"1,500'","9,900'",0
+2/1/2025,Salt Lake,Pink Pine,Skier,"4""",15',unknown,"9,200'",0
+2/2/2025,Salt Lake,Grizzly Gulch,Skier,"7""",35',unknown,"9,500'",0
+2/2/2025,Salt Lake,Twin Lakes area,Snowboarder,,unknown,unknown,"10,100'",0
+2/2/2025,Salt Lake,Butler Fork,Natural,2',200',unknown,"9,400'",0
+2/2/2025,Salt Lake,Cardiff Fork,Snowboarder,2',100',unknown,"9,800'",0
+2/2/2025,Salt Lake,Oingo Boingo,Skier,"10""",40',unknown,"10,000'",0
+2/2/2025,Salt Lake,Jaws,Natural,"10""",50',unknown,"10,100'",0
+2/2/2025,Salt Lake,Silver Fork Headwall,Skier,"14""",125',unknown,"9,800'",0
+2/2/2025,Salt Lake,Cone,Skier,unknown,unknown,unknown,"9,100'",0
+2/2/2025,Salt Lake,Davenport Hill,Snowboarder,"14""",100',200',"9,900'",0
+2/2/2025,Salt Lake,Freeland,Skier,"14""",30',100',"9,700'",0
+2/2/2025,Salt Lake,South Monitor Bowl,Natural,4',"1,000'",800',"9,700'",0
+2/2/2025,Salt Lake,Scott Hill,Natural,unknown,unknown,700',"9,900'",0
+2/2/2025,Salt Lake,Willows,Natural,"12""",50',20',"9,300'",0
+2/2/2025,Salt Lake,Days Headwall,Skier,"10""",50',unknown,"10,200'",0
+2/2/2025,Salt Lake,Twin Lakes area,Snowboarder,"10""",50',unknown,"10,100'",0
+2/3/2025,Salt Lake,Main Days,Skier,"20""",300',unknown,"10,400'",0
+2/3/2025,Salt Lake,Rainbow Peak,Snowboarder,"8""",100',unknown,"9,600'",0
+2/4/2025,Salt Lake,Lanes Leap,Skier,"10""",35',unknown,"9,600'",0
+2/4/2025,Salt Lake,Deer Valley Perimeter,Natural,2',450',unknown,"9,000'",0
+2/4/2025,Salt Lake,Patsy Trees,Natural,"14""",35',unknown,"9,200'",0
+2/4/2025,Salt Lake,west porter,Natural,unknown,100',unknown,"8,600'",0
+2/4/2025,Salt Lake,Lucky Days,Natural,unknown,unknown,900',"9,000'",0
+2/5/2025,Salt Lake,Argenta Chutes,Natural,unknown,100',"1,000'","8,400'",0
+2/5/2025,Salt Lake,Doughnut Falls,Natural,2',150',unknown,"8,100'",0
+2/7/2025,Salt Lake,Lake Mary,Skier,"8""",40',100',"9,800'",0
+2/7/2025,Salt Lake,Raymond Slabs,Natural,3',150',unknown,"9,200'",0
+2/7/2025,Salt Lake,Room of Doom,Natural,3.5',"1,000'",unknown,"10,300'",0
+2/7/2025,Salt Lake,Santiago Ridge,Natural,"16""",100',unknown,"10,200'",0
+2/8/2025,Salt Lake,Two Dogs,Skier,"12""",70',unknown,"9,800'",0
+2/8/2025,Salt Lake,Days Draw,Skier,2',200',"1,000'","9,800'",0
+2/8/2025,Salt Lake,Grizzly Gulch,Skier,unknown,10',unknown,"9,600'",0
+2/8/2025,Salt Lake,Upper Red Pine,Natural,unknown,10',unknown,"10,300'",0
+2/8/2025,Salt Lake,Columbine Bowl,Snowboarder,"12""",10',500',"10,000'",0
+2/8/2025,Salt Lake,Bear Trap,Skier,2.5',30',250',"9,600'",0
+2/8/2025,Salt Lake,East Bowl,Skier,2',125',800',"10,300'",1
+2/8/2025,Salt Lake,Dutch Draw,Skier,2',200',600',"9,600'",0
+2/8/2025,Salt Lake,Eeeny Meeny Miny Moe,Natural,unknown,unknown,unknown,,0
+2/8/2025,Salt Lake,Diving Board,Natural,unknown,unknown,"1,000'","10,500'",0
+2/8/2025,Salt Lake,Meadows,Skier,unknown,100',unknown,"9,200'",0
+2/8/2025,Salt Lake,Snake Creek,Snowmobiler,2',150',unknown,"9,800'",0
+2/9/2025,Salt Lake,Big Cottonwood Canyon,Skier,unknown,50',unknown,"8,400'",0
+2/9/2025,Salt Lake,Patsy Marly,Natural,"12""",60',unknown,"9,800'",0
+2/9/2025,Salt Lake,Wilson Chutes,Natural,2',20',unknown,"9,400'",0
+2/9/2025,Salt Lake,Mineral Fork,Skier,2.5',100',400',"9,000'",0
+2/9/2025,Salt Lake,Ivory Slabs,Skier,2',50',unknown,"9,800'",0
+2/9/2025,Salt Lake,High Ivory,Natural,2',300',unknown,"10,000'",0
+2/10/2025,Salt Lake,Lake Peak,Skier,2.5',300',unknown,"10,400'",0
+2/10/2025,Salt Lake,Cardiac Ridge,Skier,3',200',unknown,"10,400'",0
+2/13/2025,Salt Lake,Brighton Perimeter,Snowboarder,"6""",15',unknown,"8,700'",0
+2/13/2025,Salt Lake,Scott Hill,Natural,"12""",50',unknown,"9,800'",0
+2/13/2025,Salt Lake,Powder Park,Natural,"6""",50',20',"9,400'",0
+2/13/2025,Salt Lake,Butler Basin,Skier,2.5',150',150',"9,400'",0
+2/14/2025,Salt Lake,Reynolds Pk,Natural,unknown,unknown,unknown,"9,300'",0
+2/14/2025,Salt Lake,Bear Trap,Skier,"14""",30',100',"9,200'",0
+2/14/2025,Salt Lake,Conehead,Natural,"14""",300',unknown,"9,800'",0
+2/14/2025,Salt Lake,Pink Pine,Natural,"12""",60',unknown,"8,300'",0
+2/14/2025,Salt Lake,Depth Hoar Bowl,Skier,3.5',250',600',"9,400'",0
+2/14/2025,Salt Lake,Monitors,Natural,unknown,unknown,unknown,"9,600'",0
+2/14/2025,Salt Lake,Summit Park,Natural,"10""",200',30',"8,400'",0
+2/14/2025,Salt Lake,Short Swing,Natural,"14""",100',unknown,"9,100'",0
+2/14/2025,Salt Lake,Yellow Jacket,Skier,2',300',"1,250'","9,000'",0
+2/14/2025,Salt Lake,Murdock Peak,Skier,"12""",150',150',"9,300'",0
+2/14/2025,Salt Lake,Mt Aire,Skier,"12""",60',400',"8,000'",0
+2/14/2025,Salt Lake,Mineral Fork,Skier,"10""",80',200',"8,600'",0
+2/14/2025,Salt Lake,South Monitor Bowl,Skier,unknown,200',unknown,"9,700'",0
+2/14/2025,Salt Lake,Lake Mary Chutes,Snowboarder,2.5',100',300',"9,400'",0
+2/14/2025,Salt Lake,Silver Fork,Natural,"14""",60',150',"8,800'",0
+2/14/2025,Salt Lake,Catherines,Snowboarder,"18""",400',60',"9,000'",0
+2/14/2025,Salt Lake,Gobblers Knob,Natural,unknown,unknown,unknown,"9,200'",0
+2/14/2025,Salt Lake,Powder Park,Skier,"18""",50',unknown,"9,400'",0
+2/15/2025,Salt Lake,Neffs,Skier,"12""",100',unknown,"7,900'",0
+2/15/2025,Salt Lake,Big Water,Natural,2',unknown,unknown,"8,800'",0
+2/15/2025,Salt Lake,Butler Fork,Skier,2',800',700',"9,200'",0
+2/15/2025,Salt Lake,Porter Fork,Natural,2',200',unknown,"9,500'",0
+2/15/2025,Salt Lake,Summit Park,Skier,unknown,unknown,unknown,"7,200'",0
+2/15/2025,Salt Lake,Maxfield Basin,Natural,unknown,unknown,unknown,"8,300'",0
+2/15/2025,Salt Lake,Main Porter,Skier,"20""",400',300',"8,500'",0
+2/15/2025,Salt Lake,Grandeur,Natural,"12""","1,000'",unknown,"8,100'",0
+2/15/2025,Salt Lake,Lake Desolation,Natural,"18""",300',unknown,"8,800'",0
+2/15/2025,Salt Lake,Lambs Canyon,Snowboarder,"20""",200',unknown,"7,900'",0
+2/15/2025,Salt Lake,Summit Park,Skier,"10""",40',unknown,"7,800'",0
+2/15/2025,Salt Lake,Park City Ridgeline,Skier,"12""",200',unknown,"8,200'",0
+2/15/2025,Salt Lake,Little Water,Skier,"18""",300',unknown,"9,200'",0
+2/15/2025,Salt Lake,Powder Park,Skier,"14""",40',unknown,"8,300'",0
+2/15/2025,Salt Lake,Toots to Boot,Skier,2.5',200',300',"8,700'",0
+2/15/2025,Salt Lake,Lambs Canyon,Skier,"12""",100',200',"7,900'",0
+2/15/2025,Salt Lake,Little Water,Skier,unknown,700',unknown,"9,300'",0
+2/15/2025,Salt Lake,Wilson Peak,Natural,unknown,400',unknown,"9,700'",0
+2/15/2025,Salt Lake,Days Fork,Skier,3',100',100',"9,400'",0
+2/15/2025,Salt Lake,Big Water,Skier,2',"1,000'",400',"8,900'",0
+2/15/2025,Salt Lake,Rocky Point,Natural,unknown,unknown,300',"10,300'",0
+2/15/2025,Salt Lake,Tuscarora,Natural,unknown,unknown,300',"10,500'",0
+2/15/2025,Salt Lake,Mill Creek Canyon,Skier,2',100',unknown,"8,500'",0
+2/15/2025,Salt Lake,Powder Park,Natural,unknown,unknown,unknown,"8,700'",0
+2/15/2025,Salt Lake,The Ice Box,Natural,2',500',"1,000'","9,200'",0
+2/16/2025,Salt Lake,Raymond Peak,Natural,3',"1,000'",unknown,"9,900'",0
+2/16/2025,Salt Lake,Grizzly Gulch,Skier,"10""",50',unknown,"9,300'",0
+2/16/2025,Salt Lake,Circle Awl,Skier,2',"1,000'","1,000'","8,400'",0
+2/16/2025,Salt Lake,West Willow,Natural,"14""",250',unknown,"9,500'",0
+2/16/2025,Salt Lake,Circle Awl,Skier,2',"1,000'","1,000'","8,400'",0
+2/16/2025,Salt Lake,Reynolds Pk,Natural,2',100',400',"9,300'",0
+2/16/2025,Salt Lake,Bull Session,Natural,3',300',500',"8,900'",0
+2/17/2025,Salt Lake,Sheep Shit Ridge,Natural,"12""",300',unknown,"9,300'",0
+2/17/2025,Salt Lake,Parleys Canyon,Skier,"10""",50',50',"7,200'",0
+2/17/2025,Salt Lake,Pink Pine,Natural,"18""",80',unknown,"8,400'",0
+2/17/2025,Salt Lake,Mill A,Skier,2',500',800',"9,000'",0
+2/17/2025,Salt Lake,Red Pine,Natural,"18""",200',unknown,"7,700'",0
+2/17/2025,Salt Lake,Mt Aire,Skier,3',150',unknown,"7,400'",0
+2/17/2025,Salt Lake,Moonlight,Natural,"14""",150',unknown,"9,600'",0
+2/18/2025,Salt Lake,Lackawaxen Lake,Snowboarder,2',60',350',"10,300'",0
+2/19/2025,Salt Lake,Hallway Couloir,Skier,2',50',"1,500'","10,400'",0
+2/20/2025,Salt Lake,Summit Park,Skier,2',90',250',"7,400'",0
+2/21/2025,Salt Lake,Superior,Skier,"4""",35',500',"9,700'",0
+2/21/2025,Salt Lake,Raymond Peak,Skier,unknown,100',unknown,"9,800'",0
+2/21/2025,Salt Lake,Park City Ridgeline,Natural,"18""",800',800',"9,900'",0
+2/21/2025,Salt Lake,Depth Hoar Bowl,Natural,4',"1,500'",900',"10,000'",0
+2/21/2025,Salt Lake,Valerie's,Natural,2',70',200',"8,700'",0
+2/21/2025,Salt Lake,Red Baldy,Natural,unknown,unknown,unknown,"10,800'",0
+2/21/2025,Salt Lake,Little Cottonwood Canyon,Skier,unknown,unknown,"1,000'","9,000'",0
+2/22/2025,Salt Lake,Mt Aire,Skier,"18""",150',"1,500'","8,400'",0
+2/22/2025,Salt Lake,Diving Board,Natural,4',150',700',"8,800'",0
+2/22/2025,Salt Lake,Mill A,Skier,"12""",100',"1,000'","9,600'",0
+2/22/2025,Salt Lake,Superior,Unknown,unknown,unknown,unknown,"9,400'",0
+2/22/2025,Salt Lake,Scotties Bowl,Natural,"8""",25',20',"8,500'",0
+2/22/2025,Salt Lake,Superior,Skier,unknown,unknown,"1,250'","10,400'",0
+2/22/2025,Salt Lake,Big Mountain,Snowmobiler,2',100',200',"8,200'",0
+2/23/2025,Salt Lake,White Pine Chutes,Natural,2',40',unknown,"8,600'",0
+2/23/2025,Salt Lake,Pink Pine,Natural,"12""",60',unknown,"8,600'",0
+2/23/2025,Salt Lake,Little Cottonwood Canyon,Natural,,25',unknown,"6,700'",0
+2/24/2025,Salt Lake,Butler Fork,Skier,"9""",50',250',"9,300'",0
+2/26/2025,Salt Lake,Tanners Gulch,Natural,unknown,unknown,unknown,"8,100'",0
+3/3/2025,Salt Lake,West Scotties,Skier,"10""",50',unknown,"9,200'",0
+3/4/2025,Salt Lake,Hide A Way Park,Skier,"3""",30',unknown,"9,800'",0
+3/6/2025,Salt Lake,Y Couloir,Natural,unknown,unknown,unknown,"8,000'",0
+3/6/2025,Salt Lake,Yellow Jacket,Skier,"12""",50',700',"9,500'",0
+3/6/2025,Salt Lake,Lacawaxan,Natural,"16""",150',unknown,"9,700'",0
+3/6/2025,Salt Lake,Reed and Benson Ridge,Skier,unknown,unknown,unknown,"9,800'",0
+3/6/2025,Salt Lake,Park City Ridgeline,Skier,"10""",50',unknown,"9,200'",0
+3/6/2025,Salt Lake,West Porter,Skier,"12""",100',unknown,"9,100'",0
+3/6/2025,Salt Lake,Porter Fork,Natural,2',100',"1,250'","7,200'",0
+3/6/2025,Salt Lake,Neffs,Natural,"12""",unknown,unknown,"9,300'",0
+3/7/2025,Salt Lake,Mt Olympus,Hiker,"12""",unknown,unknown,"8,700'",0
+3/7/2025,Salt Lake,Catchers Mit,Skier,3',300',"1,750'","10,200'",0
+3/7/2025,Salt Lake,Crystal Palace,Skier,2.5',150',700',"9,900'",0
+3/7/2025,Salt Lake,Park City Ridgeline,Skier,"12""",50',,"9,400'",0
+3/7/2025,Salt Lake,Park City Ridgeline,Unknown,"12""",100',,"9,000'",0
+3/7/2025,Salt Lake,Porter Fork,Natural,,80',800',"9,700'",0
+3/7/2025,Salt Lake,White Baldy,Natural,2.5',100',500',"10,600'",0
+3/8/2025,Salt Lake,White Pine Chutes,Natural,"12""",50',500',"8,100'",0
+3/8/2025,Salt Lake,Gobblers Knob,Skier,"8""",30',unknown,"10,200'",0
+3/8/2025,Salt Lake,Toledo Bowl,Skier,"6""",unknown,200',"9,900'",0
+3/8/2025,Salt Lake,Mill B South,Natural,"12""",100',unknown,"8,600'",0
+3/8/2025,Salt Lake,Mill B South,Natural,unknown,unknown,unknown,"9,000'",0
+3/8/2025,Salt Lake,Murdock Peak,Skier,"12""",30',unknown,"9,200'",0
+3/8/2025,Salt Lake,White Pine Chutes,Natural,"5""",400',unknown,"8,500'",0
+3/8/2025,Salt Lake,Big Cottonwood Canyon,Skier,"6""",10',unknown,"8,500'",0
+3/8/2025,Salt Lake,Silver Fork,Natural,"8""",15',unknown,"8,300'",0
+3/8/2025,Salt Lake,Coalpit,Natural,3',400',unknown,"10,200'",0
+3/10/2025,Salt Lake,Red Baldy,Skier,3',100',100',"10,000'",0
+3/12/2025,Salt Lake,White Pine,Natural,unknown,"1,500'",unknown,"11,000'",0
+3/13/2025,Salt Lake,Emma Ridges,Skier,"8""",25',unknown,"9,200'",0
+3/14/2025,Salt Lake,Argenta,Skier,"12""",35',unknown,"9,900'",0
+3/14/2025,Salt Lake,Twin Lakes area,Skier,"18""",50',unknown,"9,700'",0
+3/14/2025,Salt Lake,Dog Lake area,Skier,"8""",20',unknown,"9,500'",0
+3/14/2025,Salt Lake,Greaseball,Skier,2.5',150',800',"9,900'",0
+3/14/2025,Salt Lake,Gods Lawnmower,Skier,2',200',800',"9,900'",0
+3/14/2025,Salt Lake,Toledo Chutes,Snowboarder,"12""",150',unknown,"10,000'",0
+3/14/2025,Salt Lake,Tuscarora,Snowboarder,"18""",100',400',"10,600'",0
+3/15/2025,Salt Lake,Memorials,Natural,,30',600',"8,700'",0
+3/15/2025,Salt Lake,Days Fork,Snowboarder,,50',100',"10,000'",0
+3/15/2025,Salt Lake,Emma Ridges,Skier,"8""",30',unknown,"9,200'",0
+3/15/2025,Salt Lake,Silver Fork Headwall,Skier,"8""",100',unknown,"9,900'",0
+3/15/2025,Salt Lake,Mineral Fork,Natural,unknown,50',unknown,"9,600'",0
+3/15/2025,Salt Lake,Big Cottonwood Canyon,Unknown,"10""",20',unknown,"8,800'",0
+3/15/2025,Salt Lake,White Pine Chutes,Natural,"6""",150',unknown,"9,600'",0
+3/15/2025,Salt Lake,Hogum,Hiker,"4""",100',50',"10,300'",0
+3/15/2025,Salt Lake,Flagstaff Ridge,Skier,"9""",10',unknown,"9,700'",0
+3/15/2025,Salt Lake,Rainbow Peak,Snowboarder,"12""",20',250',"9,600'",0
+3/16/2025,Salt Lake,Highline,Skier,unknown,unknown,unknown,"9,000'",0
+3/16/2025,Salt Lake,Rocky Point,Skier,"18""",35',100',"10,400'",0
+3/16/2025,Salt Lake,Maybird Aprons,Skier,"10""",70',175',"8,000'",0
+3/16/2025,Salt Lake,Park City Ridgeline,Natural,"15""",40',600',"9,800'",0
+3/16/2025,Salt Lake,Mill B South,Skier,"10""",30',unknown,"8,400'",0
+3/16/2025,Salt Lake,Rocky Point,Skier,"8""",60',unknown,"10,400'",0
+3/16/2025,Salt Lake,No Name Bowl,Skier,2',50',200',"9,600'",0
+3/16/2025,Salt Lake,Pink Pine,Natural,"6""",10',unknown,"9,600'",0
+3/17/2025,Salt Lake,Bonkers,Natural,7',30',unknown,"9,900'",0
+3/17/2025,Salt Lake,Diving Board,Natural,8',400',unknown,"9,300'",0
+3/17/2025,Salt Lake,Wolverine Cirque,Natural,2',100',unknown,"10,500'",0
+3/17/2025,Salt Lake,Jaws,Natural,"18""",40',unknown,"10,000'",0
+3/18/2025,Salt Lake,Grizzly Gulch,Natural,"12""",50',unknown,"9,100'",0
+3/18/2025,Salt Lake,Main Porter,Natural,"6""",30',unknown,"9,300'",0
+3/18/2025,Salt Lake,Little Cottonwood Canyon,Natural,unknown,unknown,600',"8,800'",0
+3/18/2025,Salt Lake,Grizzly Gulch,Skier,"12""",30',10',"10,100'",0
+3/19/2025,Salt Lake,Neffs,Skier,"12""",200',unknown,"7,500'",0
+3/19/2025,Salt Lake,Alexander Basin,Natural,"18""",90',175',"8,900'",0
+3/19/2025,Salt Lake,Santiago Ridge,Natural,2',150',"1,000'","9,800'",0
+3/21/2025,Salt Lake,Porter Fork,Natural,4',100',400',"9,700'",0
+3/22/2025,Salt Lake,Stupid Chute,Skier,"10""",150',150',"10,300'",0
+3/22/2025,Salt Lake,Twin Lakes area,Skier,"6""",50',unknown,"10,100'",0
+3/22/2025,Salt Lake,Microwave,Snowboarder,"6""",60',200',"10,000'",0
+3/22/2025,Salt Lake,Patsy Marly,Skier,"18""",100',100',"10,400'",0
+3/22/2025,Salt Lake,Jaws,Skier,"7""",150',500',"9,800'",0
+3/22/2025,Salt Lake,Wolverine,Skier,"6""",30',unknown,"10,400'",0
+3/22/2025,Salt Lake,Salt Lake,Snowboarder,"5""",25',unknown,"9,500'",0
+3/22/2025,Salt Lake,Millicent Peak,Skier,"8""",50',unknown,"10,000'",0
+3/22/2025,Salt Lake,Toledo Chutes,Snowboarder,"8""",20',unknown,"10,100'",0
+3/23/2025,Salt Lake,Upper Days,Skier,"5""",25',300',"10,400'",0
+3/23/2025,Salt Lake,Wolverine,Snowboarder,"11""",30',100',"10,500'",0
+3/23/2025,Salt Lake,Dromedary Peak,Skier,"18""",150',250',"10,800'",0
+3/23/2025,Salt Lake,Two Dogs,Snowboarder,"10""",25',100',"10,100'",0
+3/23/2025,Salt Lake,Banana Days,Natural,,30',500',"9,900'",0
+3/23/2025,Salt Lake,Big Mac,Snowboarder,"10""",30',unknown,"9,700'",0
+3/23/2025,Salt Lake,Mt Olympus,Natural,unknown,unknown,unknown,"8,800'",0
+3/23/2025,Salt Lake,Monte Cristo,Skier,2',100',"2,000'","10,800'",0
+3/23/2025,Salt Lake,Tuscarora,Snowboarder,"2""",35',unknown,"10,500'",0
+3/23/2025,Salt Lake,Mt Olympus,Natural,2',50',unknown,"8,000'",0
+3/24/2025,Salt Lake,Upper Days,Skier,"8""",20',unknown,"10,100'",0
+3/25/2025,Salt Lake,Little Pine,Natural,unknown,unknown,"2,000'","10,600'",0
+3/25/2025,Salt Lake,Cottonwood Canyons,Natural,unknown,unknown,unknown,"5,300'",0
+3/27/2025,Salt Lake,Coalpit,Natural,unknown,unknown,unknown,"7,300'",0
+3/28/2025,Salt Lake,Broads Fork,Natural,unknown,unknown,unknown,"9,300'",0
+3/28/2025,Salt Lake,Stairs Gulch,Natural,unknown,unknown,"1,000'","9,400'",0
+3/28/2025,Salt Lake,Raymond Slabs,Natural,unknown,40',600',"9,200'",0
+3/29/2025,Salt Lake,The Ice Box,Natural,unknown,unknown,unknown,"9,400'",0
+3/30/2025,Salt Lake,Depth Hoar Bowl,Natural,unknown,100',300',"9,400'",0
+3/30/2025,Salt Lake,Mill B South,Skier,"2""",15',100',"8,500'",0
+4/1/2025,Salt Lake,Meadows,Skier,"8""",125',100',"9,200'",0
+4/1/2025,Salt Lake,Days Fork,Natural,unknown,175',400',"9,700'",0
+4/1/2025,Salt Lake,Days Fork,Natural,"7""",40',unknown,"9,700'",0
+4/1/2025,Salt Lake,Days Fork,Skier,"15""",150',unknown,"10,400'",0
+4/1/2025,Salt Lake,Monitors,Natural,"8""",200',unknown,"9,800'",0
+4/1/2025,Salt Lake,Bear Trap,Skier,"6""",5',unknown,"8,200'",0
+4/1/2025,Salt Lake,Georges Bowl,Skier,"10""",80',unknown,"8,400'",0
+4/1/2025,Salt Lake,Silver Fork,Snowboarder,"10""",200',300',"9,900'",0
+4/1/2025,Salt Lake,Days Fork,Skier,3',10',unknown,"10,100'",0
+4/1/2025,Salt Lake,Argenta,Skier,"12""",100',200',"9,500'",0
+4/1/2025,Salt Lake,Scotties Bowl,Natural,"12""",100',unknown,"9,600'",0
+4/1/2025,Salt Lake,Lanes Leap,Natural,"8""",50',unknown,"9,600'",0
+4/1/2025,Salt Lake,Michigan City,Skier,"20""",50',unknown,"8,800'",0
+4/1/2025,Salt Lake,Pink Pine,Skier,unknown,100',unknown,"8,800'",0
+4/1/2025,Salt Lake,Park City Ridgeline,Natural,"12""",unknown,unknown,"9,700'",0
+4/1/2025,Salt Lake,Oingo Boingo,Snowboarder,"20""",125',300',"10,100'",0
+4/1/2025,Salt Lake,Doughnut Falls,Skier,"10""",50',unknown,"8,700'",0
+4/1/2025,Salt Lake,Grizzly Gulch,Skier,"10""",20',unknown,"9,400'",0
+4/1/2025,Salt Lake,Scotties Bowl,Skier,"10""",30',20',"9,200'",0
+4/1/2025,Salt Lake,Lake Peak,Natural,unknown,unknown,unknown,"10,100'",0
+4/1/2025,Salt Lake,Rocky Point,Skier,"12""",unknown,unknown,"10,300'",0
+4/2/2025,Salt Lake,Sidewinder,Skier,"20""",20',unknown,"9,500'",0
+4/2/2025,Salt Lake,West Scotties,Snowboarder,"10""",50',200',"9,500'",0
+4/2/2025,Salt Lake,Caribou Basin,Skier,"12""",100',200',"9,800'",0
+4/3/2025,Salt Lake,Microwave,Skier,"4""",35',unknown,"10,400'",0
+4/3/2025,Salt Lake,Wolverine Cirque,Skier,"18""",150',350',"10,600'",0
+4/4/2025,Salt Lake,Birthday Chutes,Skier,"12""",35',300',"10,400'",0
+4/6/2025,Salt Lake,Broads Fork,Natural,unknown,unknown,unknown,"8,200'",0
+4/7/2025,Salt Lake,White Baldy,Natural,"5""",20',unknown,"10,400'",0
+4/13/2025,Salt Lake,Broads Fork,Natural,unknown,unknown,800',"9,400'",0
+4/17/2025,Salt Lake,Brighton Perimeter,Natural,"8""",80',200',"10,300'",0
+4/18/2025,Salt Lake,Broads Fork,Natural,unknown,unknown,unknown,"8,600'",0
+4/19/2025,Salt Lake,Butler Basin,Snowboarder,"8""",35',150',"9,900'",0
+5/5/2025,Salt Lake,Gunsight,Skier,"3""",15',unknown,"10,100'",0
+5/6/2025,Salt Lake,Cardiac Ridge,Natural,"8""",50',unknown,"9,300'",0
+5/6/2025,Salt Lake,Alta Ski Area,Natural,unknown,50',unknown,"9,800'",0
+5/6/2025,Salt Lake,Mill B South,Natural,unknown,unknown,unknown,"10,000'",0
+5/7/2025,Salt Lake,Bonkers,Natural,5',200',unknown,"9,700'",0
+5/19/2025,Salt Lake,Baldy,Snowboarder,"12""",50',unknown,"10,200'",0
+5/19/2025,Salt Lake,Tuscarora,Skier,"10""",40',90',"10,100'",0
+5/19/2025,Salt Lake,Baldy,Skier,"18""",unknown,unknown,"10,800'",0
+5/28/2025,Salt Lake,Salt Lake,Natural,unknown,10',unknown,"10,500'",0
+10/16/2025,Salt Lake,Alta Periphery,Unknown,"6""",20',unknown,"8,400'",0
+10/16/2025,Salt Lake,Gunsight,Skier,"6""",20',unknown,"10,100'",0
